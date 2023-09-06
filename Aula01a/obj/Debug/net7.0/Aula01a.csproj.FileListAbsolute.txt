@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\bin\Debug\net7.0\Aula01a.exe
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\bin\Debug\net7.0\Aula01a.deps.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\bin\Debug\net7.0\Aula01a.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\bin\Debug\net7.0\Aula01a.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\bin\Debug\net7.0\Aula01a.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\obj\Debug\net7.0\Aula01a.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\obj\Debug\net7.0\Aula01a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\obj\Debug\net7.0\Aula01a.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\obj\Debug\net7.0\Aula01a.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\obj\Debug\net7.0\Aula01a.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\obj\Debug\net7.0\Aula01a.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\obj\Debug\net7.0\refint\Aula01a.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\obj\Debug\net7.0\Aula01a.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\obj\Debug\net7.0\Aula01a.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula01a\obj\Debug\net7.0\ref\Aula01a.dll

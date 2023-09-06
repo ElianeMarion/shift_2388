@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\bin\Debug\net7.0\Aula02.exe
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\bin\Debug\net7.0\Aula02.deps.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\bin\Debug\net7.0\Aula02.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\bin\Debug\net7.0\Aula02.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\bin\Debug\net7.0\Aula02.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\obj\Debug\net7.0\Aula02.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\obj\Debug\net7.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\obj\Debug\net7.0\Aula02.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\obj\Debug\net7.0\Aula02.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\obj\Debug\net7.0\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\obj\Debug\net7.0\Aula02.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\obj\Debug\net7.0\refint\Aula02.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\obj\Debug\net7.0\Aula02.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\obj\Debug\net7.0\Aula02.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\Aula02\obj\Debug\net7.0\ref\Aula02.dll

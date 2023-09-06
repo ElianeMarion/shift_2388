@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\bin\Debug\net7.0\aula02_decisao.exe
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\bin\Debug\net7.0\aula02_decisao.deps.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\bin\Debug\net7.0\aula02_decisao.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\bin\Debug\net7.0\aula02_decisao.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\bin\Debug\net7.0\aula02_decisao.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\obj\Debug\net7.0\aula02_decisao.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\obj\Debug\net7.0\aula02_decisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\obj\Debug\net7.0\aula02_decisao.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\obj\Debug\net7.0\aula02_decisao.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\obj\Debug\net7.0\aula02_decisao.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\obj\Debug\net7.0\aula02_decisao.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\obj\Debug\net7.0\refint\aula02_decisao.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\obj\Debug\net7.0\aula02_decisao.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\obj\Debug\net7.0\aula02_decisao.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos_2388SHIFT\aula02_decisao\obj\Debug\net7.0\ref\aula02_decisao.dll
