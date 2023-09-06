@@ -8,7 +8,7 @@
 			 * Verificar qual faixa de desconto
 			 * calcular o desconto e exibir 
 			 * salário bruto, o desconto, salario líquido*/
-			double salario, descontoINSS, salarioLiquido;
+			/*double salario, descontoINSS, salarioLiquido;
 			Console.WriteLine("Digite seu salário: R$ ");
 			salario= double.Parse(Console.ReadLine());
 			//salario = Convert.ToDouble(Console.ReadLine());
@@ -75,9 +75,9 @@
 			{
 				Console.WriteLine($"{x} é par");
 			}
-
+			*/
 			//Pedir para o usuário digitar 2 notas e calcular a média
-			//media >= 7 aluno aprovado, senão reprovado
+			//media >= 7 aluno aprovado, senão se media < 4 reprovado senão está de exame
 
 			double nota1, nota2, media;
 			Console.WriteLine("Digite a primeira nota: ");
@@ -89,9 +89,19 @@
 			{
 				Console.WriteLine($"Aluno aprovado com média {media}");
 			}
-			else 
+			else if (media < 4)
 			{
 				Console.WriteLine($"Aluno reprovado com média {media}");
+			}
+			else
+			{
+				Console.WriteLine("Aluno de exame.\nDigite a nota do exame: ");
+				double exame = Convert.ToDouble(Console.ReadLine());
+				double novaMedia = (exame + media) / 2;
+				if(novaMedia >= 6)
+					Console.WriteLine($"Aluno aprovado no exame com média {novaMedia}");
+				else
+					Console.WriteLine($"Aluno reprovado no exame com média {novaMedia}");
 			}
 			/*int idade;
 			Console.WriteLine("Informe sua idade");
@@ -108,7 +118,8 @@
 			Console.WriteLine("Fora da decisão, todos visualizam");
 			
 			*/
-			/*Console.WriteLine(@"
+			/*
+			Console.WriteLine(@"
 ███████╗██╗░█████╗░██████╗░  ██████╗░░█████╗░███╗░░██╗░█████╗░████████╗██╗░█████╗░███╗░░██╗
 ██╔════╝██║██╔══██╗██╔══██╗  ██╔══██╗██╔══██╗████╗░██║██╔══██╗╚══██╔══╝██║██╔══██╗████╗░██║
 █████╗░░██║███████║██████╔╝  ██║░░██║██║░░██║██╔██╗██║███████║░░░██║░░░██║██║░░██║██╔██╗██║
